@@ -1,2 +1,2 @@
-# EFA-versus-E-ReMI
-Comparison of EFA versus E-REMI for a Likert reposnse data 
+# PCEFA-versus-E-ReMI
+Comparison of PCEFA versus E-REMI for a Likert reposnse data 
